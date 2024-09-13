@@ -10,4 +10,7 @@ DEMONSTRAÇÃO E SIMULAÇÃO DE IA VIA COPILOT
 - APLICADO DICAS PARA UMA ENTRADA MAIS ESPECÍFCA NO PROMPT FACILITANDO O PROCESSAMENTO DA IA PARA OS RESULTADOS...
 
 ![image](https://github.com/user-attachments/assets/fad5bc24-703e-4db8-bac6-5dd6687f21f3)
+
+![image](https://github.com/user-attachments/assets/d141d620-42b8-4e25-8418-64cd2d025e15)
+
   
